@@ -18,7 +18,19 @@
 <li> Embedded Systems
 <li> Mobile and Web aplications
 
-### My skills 
+### ୨୧ Web Development:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=java,nodejs,react,git,arduino,firebase,latex,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,nodejs,react,git,firebase,python,&theme=light)](https://skillicons.dev)
 
+### ୨୧ UI/UX:
+[![My Skills](https://skillicons.dev/icons?i=figma,,&theme=light)](https://skillicons.dev)
+
+### ୨୧ Machine Learning and Data Science:
+[![My Skills](https://skillicons.dev/icons?i=python,r&theme=light)](https://skillicons.dev)
+
+### ୨୧ Embedded Systems:
+[![My Skills](https://skillicons.dev/icons?i=arduino,cpp,c&theme=light)](https://skillicons.dev)
+
+
+### ୨୧ Quantum Computing:
+[![My Skills](https://skillicons.dev/icons?i=python,&theme=light)](https://skillicons.dev)
