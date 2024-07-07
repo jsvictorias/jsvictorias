@@ -18,7 +18,7 @@
 <li> Embedded Systems
 <li> Mobile and Web aplications
 
-## My skills
+## My skills:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,arduino,cpp,java,nodejs,react,git,firebase,python,figma,&theme=light)](https://skillicons.dev)
 
 
