@@ -9,7 +9,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsvictorias&hide_progress=true)
 
-### I'm currently learning 
+### I'm currently learning...
 <li> Quantum Computing
 <li> Machine Learning
 <li> Data science
@@ -18,7 +18,7 @@
 <li> Embedded Systems
 <li> Mobile and Web aplications
 
-## My skills:
+## My skills...
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,arduino,cpp,java,nodejs,react,git,firebase,python,figma,&theme=light)](https://skillicons.dev)
 
 
