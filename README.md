@@ -4,22 +4,18 @@
 [![linkedn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julia-santos-511900256/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juliasantos7652@gmail.com)
 
-
-![Julia's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsvictorias&show_icons=true&theme=dracula)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsvictorias&hide_progress=true)
-
 ### I'm currently learning...
 <li> FullStack Apliccations
 <li> Quantum Computing
-<li> DEVOPS 
+<li> AWS Cloud
 
-### I like...
-<li> Embedded Systems
-<li> Mobile and FrontEnd aplications
+### I use...
+<li> DevOps
+<li> IaC
+<li> FrontEnd and Backend
 
 ## My skills...
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,arduino,java,nodejs,react,git,firebase,python,figma,&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,nodejs,react,git,aws,go,firebase,python,figma,latex,vim,ts,sass,&theme=light)](https://skillicons.dev)
 
 
 
