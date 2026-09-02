@@ -16,7 +16,7 @@ Computer Engineering student · Quantum Computing Researcher · Qiskit Advocate
 <li> Quantum Computing
 
 ## My skills...
-[![My Skills](https://skillicons.dev/icons?i=python,pytorch,sklearn,docker,git,githubactions,gitlab,linux,bash,aws,azure,ts,react,nextjs,sass,latex,figma,vim&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,sklearn,docker,git,githubactions,gitlab,aws,azure,latex&theme=light)](https://skillicons.dev)
 
 ![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
